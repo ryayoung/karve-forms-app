@@ -1,0 +1,421 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Karve
+</name>
+</assembly>
+<members>
+<member name="T:PHASE_II.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PHASE_II.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PHASE_II.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PHASE_II.My.Resources.Resources.DIN_SETTINGS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PHASE_II.My.Resources.Resources.imgBack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PHASE_II.My.Resources.Resources.imgBtnClosed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PHASE_II.My.Resources.Resources.imgBtnExit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PHASE_II.My.Resources.Resources.imgBtnOpen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PHASE_II.My.Resources.Resources.imgGoDisabled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PHASE_II.My.Resources.Resources.imgGoHovered">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PHASE_II.My.Resources.Resources.imgGoNormal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PHASE_II.My.Resources.Resources.imgLogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.BindingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.BindingModelDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.BrandDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.CustomerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.RentalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.SkiDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.SkiBindingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.SkiModelDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.StateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.TuneDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.TuneLineDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.TuneTypeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.CustomerListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.RentalHistoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.usp_CustomerAnalysisDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.BindingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.BindingModelRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.BrandRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.CustomerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.RentalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.SkiRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.SkiBindingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.SkiModelRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.StateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.TuneRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.TuneLineRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.TuneTypeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.CustomerListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.RentalHistoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.usp_CustomerAnalysisRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.BindingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.BindingModelRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.BrandRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.CustomerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.RentalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.SkiRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.SkiBindingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.SkiModelRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.StateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.TuneRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.TuneLineRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.TuneTypeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.CustomerListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.RentalHistoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSet.usp_CustomerAnalysisRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.BindingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.BindingModelTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.BrandTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.CustomerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.RentalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.SkiTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.SkiBindingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.SkiModelTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.StateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.TuneTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.TuneLineTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.TuneTypeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.CustomerListTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.RentalHistoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.usp_CustomerAnalysisTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PHASE_II.KarveDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PHASE_II.KarveDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PHASE_II.KarveDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PHASE_II.KarveDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PHASE_II.KarveDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PHASE_II.KarveDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PHASE_II.KarveDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PHASE_II.KarveDataSetTableAdapters.TableAdapterManager.UpdateAll(PHASE_II.KarveDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PHASE_II.KarveDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
