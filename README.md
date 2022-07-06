@@ -16,7 +16,15 @@
 - [```Customers.vb```:]() The customer form, shown in read-only mode in the Search tab, or read & edit in its own window.
 - [```SkiBinding.vb```]() & [```SkiModel.vb```:]() View inventory
 
-- NOTE: There will be scaling issues with the forms if you have a 4k monitor, or if you're running VS on a display other than your primary display. If anything doesn't look right, see the screenshots below
+NOTE: There will be scaling issues with the forms if you have a 4k monitor, or if you're running VS on a display other than your primary display. If anything doesn't look right, see the screenshots below this video.
+
+<br>
+
+*(Unmute for narration)*
+
+https://user-images.githubusercontent.com/90723578/136682515-562cd1b8-dd9e-44ce-88bb-776dd553bf5a.mp4
+
+#### Screenshots
 
 ![sc_Search](https://user-images.githubusercontent.com/90723578/177606457-66f6a8e3-2cb9-4b9f-8d2b-436f4b17528b.png)
 
