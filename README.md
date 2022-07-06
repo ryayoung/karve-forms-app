@@ -18,3 +18,8 @@
 
 - NOTE: There will be scaling issues with the forms if you have a 4k monitor, or if you're running VS on a display other than your primary display. If anything doesn't look right, see the screenshots below
 
+![sc_Search](https://user-images.githubusercontent.com/90723578/177606457-66f6a8e3-2cb9-4b9f-8d2b-436f4b17528b.png)
+
+![sc_DinCalculator](https://user-images.githubusercontent.com/90723578/177606476-8fe2e196-f24a-4368-86bf-334c8ef88793.png)
+
+![sc_Customers](https://user-images.githubusercontent.com/90723578/177606496-f28c19f4-744e-41b1-9bbb-fea70f08fdd6.png)
