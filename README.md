@@ -4,8 +4,11 @@
 
 > Made in Visual Studio with VB. There are two follow-up projects for this one in separate repositories, linked below. This app is for the first version of the Karve OLTP database. The later versions were changed significantly.
 
+### <a href="https://github.com/ryayoung/karve-forms-app/blob/main/DATABASE.md"><img src="https://github.com/ryayoung/icons/blob/main/svg/server.blue.svg" height="22"/> &nbsp; Database Documentation</a>
+
 - [**Part 2:** Simulation & Sample database](https://github.com/ryayoung/karve-sample-database)
 - [**Part 3:** Data Warehouse](https://github.com/ryayoung/data-warehousing)
+
 
 ### Code
 
@@ -22,7 +25,7 @@ NOTE: There will be scaling issues with the forms if you have a 4k monitor, or i
 
 *(Unmute for narration)*
 
-https://user-images.githubusercontent.com/90723578/136682515-562cd1b8-dd9e-44ce-88bb-776dd553bf5a.mp4
+https://user-images.githubusercontent.com/90723578/177630055-e287d2a7-78b6-47c5-8567-7290e597ced9.mp4
 
 #### Screenshots
 
